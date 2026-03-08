@@ -2,7 +2,7 @@
 import { DateRange, SelectRangeEventHandler } from 'react-day-picker';
 // TODO: import only the locale needed
 // TODO: remove momentjs and use date-fns
-import { de, enUS, fr, ptBR } from 'date-fns/locale';
+import { bn, de, enUS, fr, ptBR } from 'date-fns/locale';
 import {
   Popover,
   PopoverContent,
@@ -41,6 +41,8 @@ export function DateRangePicker({
     fnsLocale = de;
   } else if (locale === 'pt-BR') {
     fnsLocale = ptBR;
+  } else if (locale === 'bn') {
+    fnsLocale = bn;
   }
 
   return (
