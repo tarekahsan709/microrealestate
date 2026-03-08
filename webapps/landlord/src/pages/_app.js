@@ -3,6 +3,7 @@ import 'moment/locale/fr';
 import 'moment/locale/pt';
 import 'moment/locale/de';
 import 'moment/locale/es';
+import 'moment/locale/bn';
 import '@react-pdf-viewer/core/lib/styles/index.css';
 import '@react-pdf-viewer/default-layout/lib/styles/index.css';
 import 'react-awesome-lightbox/build/style.css';

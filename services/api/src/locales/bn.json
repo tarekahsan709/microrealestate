@@ -1,0 +1,18 @@
+{
+  "cash": "নগদ",
+  "cheque": "চেক",
+  "Contract begin date": "চুক্তি শুরুর তারিখ",
+  "Contract end date": "চুক্তি শেষের তারিখ",
+  "Contract termination date": "চুক্তি সমাপ্তির তারিখ",
+  "Deposit": "জামানত",
+  "Deposit: {{deposit}}": "জামানত: {{deposit}}",
+  "Final balance": "চূড়ান্ত ব্যালেন্স",
+  "Last rent balance": "শেষ ভাড়ার ব্যালেন্স",
+  "levy": "লেভি",
+  "Name": "নাম",
+  "Properties": "সম্পত্তি",
+  "Reference": "রেফারেন্স",
+  "Refunded deposit": "ফেরত জামানত",
+  "Tenant": "ভাড়াটিয়া",
+  "transfer": "ট্রান্সফার"
+}
